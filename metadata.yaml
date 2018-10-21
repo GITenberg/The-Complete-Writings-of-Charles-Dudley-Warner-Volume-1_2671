@@ -1,5 +1,5 @@
 _repo: The-Complete-Writings-of-Charles-Dudley-Warner-Volume-1_2671
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Nova Scotia -- Description and travel'
 - !lcsh 'Essays'
 - !lcc 'F1001'
+- GITenberg
 tableOfContents: My summer in a garden -- Backlog studies -- Baddeck, and That Sort
   of Thing.
 title: The Complete Writings of Charles Dudley Warner — Volume 1
